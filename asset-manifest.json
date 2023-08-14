@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/birthday-reminder/static/css/main.681ab24d.css",
+    "main.js": "/birthday-reminder/static/js/main.0121710f.js",
+    "static/js/787.0fa526db.chunk.js": "/birthday-reminder/static/js/787.0fa526db.chunk.js",
+    "static/media/Abdullah.jpeg": "/birthday-reminder/static/media/Abdullah.2d7f450dd19722f0077d.jpeg",
+    "static/media/Laiba.jpeg": "/birthday-reminder/static/media/Laiba.24827c166ed14aa4e233.jpeg",
+    "static/media/Zubair.jpeg": "/birthday-reminder/static/media/Zubair.1ba80e2c46963c9c3dae.jpeg",
+    "static/media/Ahmed.jpeg": "/birthday-reminder/static/media/Ahmed.01d8623c6c36e018cb98.jpeg",
+    "static/media/Hassan.jpeg": "/birthday-reminder/static/media/Hassan.907ccbd5ee6732960542.jpeg",
+    "index.html": "/birthday-reminder/index.html",
+    "main.681ab24d.css.map": "/birthday-reminder/static/css/main.681ab24d.css.map",
+    "main.0121710f.js.map": "/birthday-reminder/static/js/main.0121710f.js.map",
+    "787.0fa526db.chunk.js.map": "/birthday-reminder/static/js/787.0fa526db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.681ab24d.css",
+    "static/js/main.0121710f.js"
+  ]
+}
